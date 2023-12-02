@@ -1,0 +1,4 @@
+Gmail Clone Hosted Link is - 
+    https://shubham-guptaji.github.io/gmail-clone/
+Screenshot Link is -
+    https://github.com/Shubham-Guptaji/gmail-clone/blob/main/outputs/gmail.png
